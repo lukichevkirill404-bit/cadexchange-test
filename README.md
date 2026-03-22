@@ -22,7 +22,7 @@ Redis позволяет:
 ## Запуск
 
 1. Поднимите Redis:
-   - `docker compose up`
+   - `docker-compose up` (или `docker compose up`, если установлен плагин Compose V2)
 2. Установите зависимости:
    - `npm i`
 3. Запустите сервис:
